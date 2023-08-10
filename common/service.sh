@@ -1,10 +1,7 @@
 #!/system/bin/sh
-# Please don't hardcode /magisk/modname/... ; instead, please use $MODDIR/...
-# This will make your scripts compatible even if Magisk change its mount point in the future
 MODDIR=${0%/*}
 
-# This script will be executed in late_start service mode
-
+# GPU Turbo Boost late_start service mode
 write /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor performance
 write /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor performance
 write /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor performance
