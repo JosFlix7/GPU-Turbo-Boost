@@ -3,7 +3,8 @@
 This module aims to increase Qualcomm Snapdragon powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
 
 ## This is a Fork!
-- For Moto G7 Power (Ocean) Android 13 ROMs (Original module causes lag :c).
+- For Android 13 ROMs (Original module causes lag :c).
+- Mentioned issue found and fixed on Moto G7 Power (Ocean).
 
 ## What it does
 Modifying values found in stock kernel, custom kernel and build.prop, enhances gpu and accelerates your device performance to the highest level!.
