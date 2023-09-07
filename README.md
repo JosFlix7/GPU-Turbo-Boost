@@ -3,7 +3,7 @@
 This module aims to increase Qualcomm Snapdragon powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
 
 ## This is a Fork!
-- For Android 13 ROMs (Original module causes lag :c).
+- For Android 12+ ROMs (Original module causes lag :c).
 - Mentioned issue found and fixed on Moto G7 Power (Ocean).
 
 ## What it does

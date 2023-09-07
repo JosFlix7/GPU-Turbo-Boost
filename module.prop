@@ -1,6 +1,6 @@
 id=GPUTurboBoostJos
-name=GPU Turbo Boost (Tiramisu Mod)
-version=6.2.1
-versionCode=621
+name=GPU Turbo Boost Fork
+version=6.2.2
+versionCode=622
 author=EmperorEye1993 & JosFlix7
 description=This module aims to increase Android powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.

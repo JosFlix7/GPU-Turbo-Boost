@@ -5,7 +5,7 @@ LATESTARTSERVICE=true
 
 print_modname() {
   ui_print "*************************************"
-  ui_print " GPU Turbo Boost v6.2.1 Tiramisu     "
+  ui_print " GPU Turbo Boost v6.2.2 Fork         "
   ui_print " Magisk installer                    "
   ui_print " By: EmperorEye1993 @ xda-developers "
   ui_print " Modded By: JosFlix7                 "
